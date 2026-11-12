@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 136" width="100%" role="img" aria-labelledby="titulo-indicadores">
+  <title id="titulo-indicadores">Resumo de Indicadores Profissionais e Técnicos — Gabriel Chaves</title>
+
+  <!-- Bloco 1 -->
+  <g transform="translate(0, 0)">
+    <rect width="228" height="136" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1.5" />
+    <text x="22" y="34" fill="#8b949e" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600">EXPERIÊNCIA EM PRODUÇÃO</text>
+    <text x="22" y="74" fill="#34d399" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="26" font-weight="700">GovTech / TIC</text>
+    <text x="22" y="100" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="600">Editais.GOV · Niterói/RJ</text>
+    <text x="22" y="118" fill="#8b949e" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12">Aponti / Softex / MCTI</text>
+  </g>
+
+  <!-- Bloco 2 -->
+  <g transform="translate(244, 0)">
+    <rect width="228" height="136" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1.5" />
+    <text x="22" y="34" fill="#8b949e" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600">FORMAÇÃO INTENSIVA</text>
+    <text x="22" y="74" fill="#60a5fa" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="26" font-weight="700">ADS + 240h</text>
+    <text x="22" y="100" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="600">IFES (2025–2028)</text>
+    <text x="22" y="118" fill="#8b949e" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12">Bolsa Futuro Digital (MCTI)</text>
+  </g>
+
+  <!-- Bloco 3 -->
+  <g transform="translate(488, 0)">
+    <rect width="228" height="136" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1.5" />
+    <text x="22" y="34" fill="#8b949e" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600">ENGENHARIA &amp; DADOS</text>
+    <text x="22" y="74" fill="#a78bfa" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="26" font-weight="700">Clean Arch</text>
+    <text x="22" y="100" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="600">APIs REST · SQL · Docker</text>
+    <text x="22" y="118" fill="#8b949e" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12">Testes Unitários (Jest / Zod)</text>
+  </g>
+
+  <!-- Bloco 4 -->
+  <g transform="translate(732, 0)">
+    <rect width="228" height="136" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1.5" />
+    <text x="22" y="34" fill="#8b949e" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="600">COMUNICAÇÃO GLOBAL</text>
+    <text x="22" y="74" fill="#fbbf24" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="26" font-weight="700">Inglês C2</text>
+    <text x="22" y="100" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="600">Fluente (Proficiência)</text>
+    <text x="22" y="118" fill="#8b949e" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12">ES Intermediário · FR Básico</text>
+  </g>
+</svg>

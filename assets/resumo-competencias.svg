@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="100%" role="img" aria-labelledby="titulo-pilares">
+  <title id="titulo-pilares">Pilares de Atuação: Engenharia de Software Full-Stack e Análise de Dados</title>
+
+  <!-- Card 1: Engenharia de Software -->
+  <g transform="translate(0, 0)">
+    <rect x="0" y="0" width="468" height="250" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1.5" />
+    <rect x="0" y="0" width="468" height="4" rx="2" fill="#3b82f6" />
+
+    <text x="28" y="38" fill="#60a5fa" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">
+      TRILHA 01 · ENGENHARIA DE SOFTWARE (FULL-STACK / BACK-END)
+    </text>
+    <text x="28" y="66" fill="#f0f6fc" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18" font-weight="700">
+      Sistemas Web, APIs RESTful &amp; Arquitetura Limpa
+    </text>
+
+    <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13.5" fill="#8b949e">
+      <circle cx="34" cy="100" r="3" fill="#3b82f6" />
+      <text x="48" y="104"><tspan fill="#e6edf3" font-weight="600">Back-end &amp; APIs:</tspan> Node.js, TypeScript, Express, Python &amp; Django</text>
+
+      <circle cx="34" cy="130" r="3" fill="#3b82f6" />
+      <text x="48" y="134"><tspan fill="#e6edf3" font-weight="600">Front-end SPA:</tspan> React 19, Vite, Angular, Context API &amp; Design Systems</text>
+
+      <circle cx="34" cy="160" r="3" fill="#3b82f6" />
+      <text x="48" y="164"><tspan fill="#e6edf3" font-weight="600">Qualidade &amp; Segurança:</tspan> Clean Architecture, JWT, BCrypt, Zod &amp; Jest</text>
+
+      <circle cx="34" cy="190" r="3" fill="#3b82f6" />
+      <text x="48" y="194"><tspan fill="#e6edf3" font-weight="600">DevOps &amp; Produção:</tspan> Docker, Rate Limiting, Wagtail CMS &amp; Git</text>
+    </g>
+
+    <text x="28" y="228" fill="#58a6ff" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">
+      Entregas: Editais.GOV (Niterói/RJ) · SIRH API · NexusTech SPA
+    </text>
+  </g>
+
+  <!-- Card 2: Análise & Engenharia de Dados -->
+  <g transform="translate(492, 0)">
+    <rect x="0" y="0" width="468" height="250" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1.5" />
+    <rect x="0" y="0" width="468" height="4" rx="2" fill="#10b981" />
+
+    <text x="28" y="38" fill="#34d399" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">
+      TRILHA 02 · ANÁLISE DE DADOS, SQL &amp; AUTOMAÇÃO
+    </text>
+    <text x="28" y="66" fill="#f0f6fc" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18" font-weight="700">
+      Modelagem Relacional, Consultas &amp; Processamento
+    </text>
+
+    <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13.5" fill="#8b949e">
+      <circle cx="34" cy="100" r="3" fill="#10b981" />
+      <text x="48" y="104"><tspan fill="#e6edf3" font-weight="600">Bancos Relacionais:</tspan> PostgreSQL, MySQL e SQLite (DDL, DML, Joins)</text>
+
+      <circle cx="34" cy="130" r="3" fill="#10b981" />
+      <text x="48" y="134"><tspan fill="#e6edf3" font-weight="600">Buscas &amp; Indexação:</tspan> Queries otimizadas, ORM &amp; Django Q Objects</text>
+
+      <circle cx="34" cy="160" r="3" fill="#10b981" />
+      <text x="48" y="164"><tspan fill="#e6edf3" font-weight="600">Automação &amp; ETL:</tspan> Python, Django Signals, Power Query &amp; APIs JSON</text>
+
+      <circle cx="34" cy="190" r="3" fill="#10b981" />
+      <text x="48" y="194"><tspan fill="#e6edf3" font-weight="600">Análise Exploratória:</tspan> Limpeza, validação de schemas e métricas</text>
+    </g>
+
+    <text x="28" y="228" fill="#34d399" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">
+      Base sólida em Engenharia de Software aplicada a Dados &amp; BI
+    </text>
+  </g>
+</svg>
